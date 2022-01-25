@@ -1,0 +1,1 @@
+/tool fetch "https://api.telegram.org/bot507xxxx008:xxxxxxxxxxxxxxxxxx/sendMessage?chat_id=-641109053&text=Home back online"
